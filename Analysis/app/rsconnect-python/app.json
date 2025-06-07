@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\nikhi\\OneDrive\\Desktop\\PythonC3\\app",
+        "app_url": "https://nikhil-c00313639921.shinyapps.io/deployment/",
+        "app_id": 13591095,
+        "app_guid": null,
+        "title": "deployment",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
